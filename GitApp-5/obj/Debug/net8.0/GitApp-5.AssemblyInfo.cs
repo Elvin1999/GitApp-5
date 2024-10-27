@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GitApp-5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+259613a031f3ee596bf4f019f090fa3189791923")]
 [assembly: System.Reflection.AssemblyProductAttribute("GitApp-5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GitApp-5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
